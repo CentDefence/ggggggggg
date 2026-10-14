@@ -1,0 +1,8 @@
+Team badge assets used in the TCL archive:
+Como Calcio 1907 — TransferRoom club logo image source.
+FC Porto — Liga Portugal image CDN.
+Ajax Eidhoven — API-Sports club-logo CDN (team 194).
+Manchester United — API-Sports team-logo CDN (team 33).
+Tottenham, Aston Villa and Liverpool — API-Sports team-logo CDN.
+Egypt, Mexico, Brazil and Colombia — country flag SVG assets included locally as roster marks.
+These images identify teams in this fan-made league archive.
